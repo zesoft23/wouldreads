@@ -1,4 +1,4 @@
 # wouldreads
 
 WIP - 
-My personal homepage for the Internet 
+Playing with Replit to create a news website
