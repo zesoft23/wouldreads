@@ -7,4 +7,4 @@ My personal homepage for the Internet
 
 1. Tao Te Ching - Laozi
 2. Frankenstein; or, The Modern Prometheus - Mary Shelly
-3. The Power Broker: Robert Moses and the Fall of New York - Robert Caro
+3. The Death and Life of Great American Cities - Jane Jacobs
